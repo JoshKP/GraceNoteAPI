@@ -10,6 +10,7 @@ using Microsoft.Owin.Security.OAuth;
 using Owin;
 using GraceNote.WebAPI.Providers;
 using GraceNote.WebAPI.Models;
+using GraceNote.CData;
 
 namespace GraceNote.WebAPI
 {
