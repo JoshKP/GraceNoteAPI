@@ -1,0 +1,16 @@
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\GraceNote.Services.dll.config
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\GraceNote.Services.dll
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\GraceNote.Services.pdb
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\EntityFramework.dll
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\EntityFramework.xml
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\EFA Work\GraceNote\GraceNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\EFA Work\GraceNote\GraceNote.Services\obj\Debug\GraceNote.BServices.csprojAssemblyReference.cache
+C:\EFA Work\GraceNote\GraceNote.Services\obj\Debug\GraceNote.BServices.csproj.CoreCompileInputs.cache
+C:\EFA Work\GraceNote\GraceNote.Services\obj\Debug\GraceNote.BServices.csproj.CopyComplete
+C:\EFA Work\GraceNote\GraceNote.Services\obj\Debug\GraceNote.Services.dll
+C:\EFA Work\GraceNote\GraceNote.Services\obj\Debug\GraceNote.Services.pdb

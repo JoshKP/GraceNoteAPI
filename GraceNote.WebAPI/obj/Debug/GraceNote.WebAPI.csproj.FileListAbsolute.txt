@@ -1,0 +1,2 @@
+C:\EFA Work\GraceNote\GraceNote.WebAPI\obj\Debug\GraceNote.WebAPI.csprojAssemblyReference.cache
+C:\EFA Work\GraceNote\GraceNote.WebAPI\obj\Debug\GraceNote.WebAPI.csproj.CoreCompileInputs.cache
